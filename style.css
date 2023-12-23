@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(fond.jpg);
+    height: 100%;
+    background-size: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-attachment: fixed;
+    display: flex;
+}
+
+body .body {
+    background-color: #333333;
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+body .title img {
+    width: 400px;
+    margin-top: 15px;
+}
+ 
+body .my_apps h1 {
+    font-size: 3em;
+}
+
+body .my_apps img {
+    width: 100px;
+    margin: 10px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+body .sites h1 {
+    font-size: 3em;
+}
+
+body .sites a {
+    font-size: 1.8em;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+body .sites a img {
+    width: 1em;
+    margin-left: 10px;
+}
+
+body .favoris h1 {
+    font-size: 3em;
+}
+
+body .favoris a img {
+    width: 100px;
+    margin: 10px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+body .footer h1 {
+    color: #ffffff;
+    font-size: 1.5em;
+    width: 100%;
+}
+
+body .footer h1 a {
+    color: #ffffff;
+}
+
+body #ww_5bc022b38e4c {
+    border-radius: 20px;
+}
