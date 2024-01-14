@@ -58,6 +58,7 @@ body .favoris h1 {
 
 body .favoris a img {
     width: 100px;
+    heigh: 100px;
     margin: 10px;
     background-color: #ffffff;
     border-radius: 20px;
